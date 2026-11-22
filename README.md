@@ -1,4 +1,4 @@
-```text
+u```text
 ███████╗███████╗██████╗ ██╗   ██╗██████╗ ███████╗██╗   ██╗
 ██╔════╝╚══███╔╝██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██║   ██║
 █████╗    ███╔╝ ██████╔╝ ╚████╔╝ ██║  ██║█████╗  ██║   ██║
@@ -6,28 +6,21 @@
 ███████╗███████╗██████╔╝   ██║   ██████╔╝███████╗ ╚████╔╝
 ╚══════╝╚══════╝╚═════╝    ╚═╝   ╚═════╝ ╚══════╝  ╚═══╝
 
-        it's pronounced "easy". it is not easy.
 ```
 
 ```text
  ┌──────────────────────────────────────────────────────────┐
  │ guest@ezbydev:~$ whoami                                  │
- │ David M. — new developer, professional googler           │
+ │ David M. — new developer, professional claude            │
  │                                                          │
  │ guest@ezbydev:~$ cat location.txt                        │
- │ Europe. More specific than that is a paid DLC.           │
+ │ Europe. Cool place, cool animals and forests.            │
  │                                                          │
  │ guest@ezbydev:~$ cat status.txt                          │
- │ [✓] hireable                                             │
  │ [✓] caffeinated                                          │
- │ [~] understands CSS                                      │
- │ [ ] centered a div on the first try                      │
- │                                                          │
- │ guest@ezbydev:~$ sudo make me a senior dev               │
- │ [sudo] password for ezby: ********                       │
- │ ezby is not in the sudoers file. This incident will be   │
- │ reported. Try again in ~5 years.                         │
+ │ [~] understands low level stuff                          │
  └──────────────────────────────────────────────────────────┘
+
 ```
 
 ```text
@@ -50,12 +43,10 @@
 ## `> loading skills...`
 
 ```text
- HTML        [██████████████████░░]  90%  tags go brrr
- CSS         [██████████░░░░░░░░░░]  50%  it's always the margin
- JavaScript  [█████████░░░░░░░░░░░]  45%  "undefined" is not a function
- Git         [███████░░░░░░░░░░░░░]  35%  git push --force (sorry)
- Googling    [████████████████████] 100%  certified expert
- Stack Overflow copy-paste  [████████████████████] 110%
+ C++         [██████████████████░░]  90%
+ Rust         [██████████░░░░░░░░░░]  50%
+ Assembly    [███████░░░░░░░░░░░░░]  35%  send help
+
 ```
 
 ## `> ls ~/projects`
@@ -64,13 +55,11 @@
  ~/projects
  ├── terminal/                  a website that pretends to be a terminal
  │                              (you're looking at its cousin rn)
- ├── TOP_Projects/              every project from The Odin Project
  ├── exercises_TheOdinProject/  all the exercises, solved, mostly crying
- ├── LMSXI/                     markup languages & info systems homework
- └── TaxeaseForkeado/           forked. like a fork. 🍴
+ └── TaxeaseForkeado/           whatever
 ```
 
-## `> cat fun_facts.log`
+## `> cat shit_facts.log`
 
 ```text
  [INFO]  Has written "TODO: fix later" 41 times. Fixed later: 0.
